@@ -1,0 +1,40 @@
+﻿  gameLoop.c
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(125,36): warning C4552: '*' : résultat de l'expression non utilisé
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(180,40): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'SDL_Rect *'
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(194,40): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'SDL_Rect *'
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(306,33): warning C4133: '=' : types incompatibles - de 'SDL_Texture *' à 'SDL_Rect *'
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(319,69): warning C4020: 'Count_PaquetRocket' : paramètres réels trop nombreux
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(335,41): warning C4244: '*=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(341,41): warning C4244: '*=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(416,5): warning C4013: 'strcpy' non défini(e) ; extern retournant int pris par défaut
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(417,5): warning C4013: 'strcat' non défini(e) ; extern retournant int pris par défaut
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(436,144): warning C4028: paramètre formel 7 différent de la déclaration
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(451,17): warning C4098: 'gameLoop' : fonction 'void' retournant une valeur
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(458,17): warning C4098: 'gameLoop' : fonction 'void' retournant une valeur
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(610,45): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(624,49): warning C4018: '>' : incompatibilité signed/unsigned
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(633,116): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(638,124): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(667,45): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(668,45): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(682,85): warning C4047: 'fonction' : les niveaux d'indirection de 'bool *' et de 'bool **' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(682,69): warning C4024: 'testCollisionAvecBrique' : types différents pour le paramètre formel et réel 3
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(682,103): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int **' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(682,87): warning C4024: 'testCollisionAvecBrique' : types différents pour le paramètre formel et réel 4
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(682,121): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int **' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(682,105): warning C4024: 'testCollisionAvecBrique' : types différents pour le paramètre formel et réel 5
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(685,23): warning C4244: 'fonction' : conversion de 'time_t' en 'unsigned int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(689,112): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int **' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(689,96): warning C4024: 'creationBonus' : types différents pour le paramètre formel et réel 6
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(689,130): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int **' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(689,114): warning C4024: 'creationBonus' : types différents pour le paramètre formel et réel 7
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(712,87): warning C4133: 'fonction' : types incompatibles - de 'SDL_Rect *' à 'SDL_Texture *'
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(729,83): warning C4133: 'fonction' : types incompatibles - de 'SDL_Rect *' à 'SDL_Texture *'
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(758,53): warning C4244: '*=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(761,53): warning C4244: '*=' : conversion de 'double' en 'int', perte possible de données
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(545,28): warning C4047: 'initialisation' : les niveaux d'indirection de 'int' et de 'bool *' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(551,10): warning C4047: 'initialisation' : les niveaux d'indirection de 'int *' et de 'Uint32' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(552,10): warning C4047: 'initialisation' : les niveaux d'indirection de 'int *' et de 'Uint32' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(553,10): warning C4047: 'initialisation' : les niveaux d'indirection de 'int *' et de 'Uint32' sont différents
+C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\gameLoop.c(554,28): warning C4047: 'initialisation' : les niveaux d'indirection de 'int' et de 'int *' sont différents
+  Louis_Verbrugge_casse_brique.vcxproj -> C:\Users\louvb\Desktop\Enigma\1er annee\programmation\C\Louis_Verbrugge_casse_brique\x64\Debug\Louis_Verbrugge_casse_brique.exe
